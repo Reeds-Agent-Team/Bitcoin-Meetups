@@ -62,6 +62,8 @@ If you have meetup members who own local businesses or know people who own local
 
 If all else fails, you can normally find a venue that will be willing to rent you a space, however, this may not be sustainable for smaller meetups. If you are interested in this option, see if you can get your meetup members to donate to your meetup before renting the space. Also, see the section on [bitcoin meetup financial support](support.md#financial-support).
 
+If you are running a Socratic Seminar style meetup and looking for topic ideas, check out the [Socratic Seminar Topics](socratic-seminar-topics.md) page.
+
 ---
 
 ## 💡 Community Tips

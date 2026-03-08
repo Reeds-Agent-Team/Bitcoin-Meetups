@@ -13,6 +13,7 @@
 - [**How to Build a Meetup Website**](website.md)
   - [**List of Example Bitcoin Meetup Websites**](website.md#list-of-example-bitcoin-meetup-websites)
 - [**Repository for Meetup Content**](meetup-content.md)
+  - [**Socratic Seminar Topics**](socratic-seminar-topics.md)
   - [**Meetup Presentations**](meetup-content.md#meetup-presentations)
   - [**Bitcoin Resource Collections**](meetup-content.md#bitcoin-resource-collections)
   - [**Other Bitcoin Meetup Content**](meetup-content.md#other-bitcoin-meetup-content)

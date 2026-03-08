@@ -4,6 +4,8 @@
 
 ## **Meetup Presentations**
 
+Looking for topic ideas? Check out the [Socratic Seminar Topics](socratic-seminar-topics.md) page for a community-curated list of topics organized by category.
+
 | Title | Date | Source |
 |---|---|---|
 | [February 2026 Socratic Seminar](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?usp=sharing) | Feb 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
@@ -32,7 +34,7 @@
 | [Introduction to Bitcoin](https://docs.google.com/presentation/d/1Olvt8rtl4rUdrd4tAQ9bNKBrXtUy0HZ4ted12vPbxGU/edit?slide=id.g5d826269cc_0_2#slide=id.g5d826269cc_0_2) | Nov 2019 | [Pierre Rochard](https://x.com/BitcoinPierre) |
 | [Bitcoin and the Ethics of Money Production](https://bitstein.org/slides/bitcoin-and-the-ethics-of-money-production.pdf) | Apr 2014 | [Bitstein](https://bitstein.org/) |
 
-Bitdevs also are great about publishing their topics on their websites. [Here is a list bitdevs](https://bitdevs.org/cities) and [here is a list of bitdevs](https://github.com/BitDevsNYC/BitDevsNYC.github.io/forks?include=active%2Cnetwork&page=2&period=2y&sort_by=last_updated) that forked off directly from the NYC bitdevs that can be sorted by last activity on their repos - this is another good place to find topics for your next bitcoin meetup. 
+Bitdevs also are great about publishing their topics on their websites. [Here is a list bitdevs](https://bitdevs.org/cities) and [here is a list of bitdevs](https://github.com/BitDevsNYC/BitDevsNYC.github.io/forks?include=active%2Cnetwork&page=2&period=2y&sort_by=last_updated) that forked off directly from the NYC bitdevs that can be sorted by last activity on their repos - this is another good place to find topics for your next bitcoin meetup. We also maintain a dedicated [Socratic Seminar Topics](socratic-seminar-topics.md) page with a community-curated list of topics organized by category. 
 
 ## **Bitcoin Resource Collections**
 
