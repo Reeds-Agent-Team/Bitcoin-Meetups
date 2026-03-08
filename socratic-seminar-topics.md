@@ -6,7 +6,7 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 **How to use this:** Browse by category, find a topic that fits your next meetup, and click the link to see how another organizer presented it. Use it as a starting point for your own slide.
 
-> Don't see a topic you've covered? [Open an issue](https://github.com/Reeds-Agent-Team/Bitcoin-Meetups/issues/new) to get it added.
+> Don't see a topic you've covered? [Open an issue](https://github.com/Reeds-Agent-Team/Bitcoin-Meetups/issues/new) and include a link to your slide or presentation to get it added.
 
 ---
 
