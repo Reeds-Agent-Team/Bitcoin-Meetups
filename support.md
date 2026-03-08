@@ -14,7 +14,6 @@ Bitcoin Park hosts an annual event at bitcoin park in Nashville for bitcoin meet
 
 If you are currently running a bitcoin meetup the best way to get an invite to grassroots is to join their telegram channel and look out for the invite there.
 
-Reach out to me on telegram (@ReedBTC) and I will do my best to get you invited to these telegram groups if you run a meetup.
 
 ### **_Grassroots Quarterly Roundtable_**
 
@@ -22,7 +21,7 @@ Grassroots Quarterly is a quarterly virtual meeting for bitcoin meetup organizer
 
 ## **Financial Support**
 
-Be prepared to spend more bitcoin than you bring in if you are a bitcoin meetup organizer… there are definitely ways to minimize cost, but ultimately, if you are a passionate leader, you will end up spending sats to get a meetup.com organizer account, make business cards, get an AI subscription, buy pizza or beer, rent a hall for a party or any number of other things you could do to make your meetup all that you hoped it would be.
+Be prepared to spend more than you take in if you are a bitcoin meetup organizer… there are definitely ways to minimize cost, but ultimately, if you are a passionate leader, you will end up spending sats to get a meetup.com organizer account, make business cards, get an AI subscription, buy pizza or beer, rent a hall for a party or any number of other things you could do to make your meetup all that you hoped it would be.
 
 By far the easiest way to get financial support for your meetup is to ask your members to donate! The Bitcoin and open-source development community relies on the concept of [value-4-value](https://value4value.info/). For those of you on nostr, you know that people like to send sats to content they get value from and your meetup is likely providing more value to your members than a silly meme or vlog post on nostr. Let your members know the cost of the meetup and ask them to contribute if you are planning a larger event.
 

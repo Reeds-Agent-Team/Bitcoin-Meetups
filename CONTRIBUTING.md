@@ -1,8 +1,8 @@
 ## Contributing to Grassroots Quarterly
 
-Hey, thanks for taking the time to contribute! You're awesome! 🎉
+Thanks for taking the time to contribute!
 
-The goal of the Grassroots Quarterly project is to provide meetup organizers with tools, resources and good practices to help them start or maintain their bitcoin meetup
+The goal of the Grassroots Quarterly project is to provide meetup organizers with tools, resources, and good practices to help them start or maintain their bitcoin meetup
 
 This page is intended to only be edited by bitcoin meetup organizers or others with experience with in-person technical or social meetups; however, it is open to all, even if you're new!
 

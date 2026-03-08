@@ -35,7 +35,7 @@ Many bitcoin meetups also start their own Telegram or Signal groups where they w
 Most meetups do not advertise outside of simply posting them to any number of the sites listed in the section above; advertising is optional. However, if you are trying to get the word out about your meetup to try and gather up some more regular attendees here are some ideas of how to advertise your meetup.
 
 - Post flyers where you host your meetup or in the surrounding area (old school)
-- A box of business cards is actually quite cheap ~\$20 and you can put a QR code on them that links to your website, social media, meetup page or similar where they will be able to find where you post your upcoming meetups
+- Business cards are cheap (~\$20) and you can put a QR code on them that links to your website, social media, meetup page or similar where they will be able to find where you post your upcoming meetups
 - Start a social media account for your meetup and post announcements, reminders and photos or other media from past events
 - There are several bitcoin podcasts that will read out boosts from podcasting 2.0 apps such as fountain or during live streams
   - [Local Bitcoiners](https://fountain.fm/show/Q48WBr6nT3mrbwMZ8ydY)
@@ -71,7 +71,7 @@ If all else fails, you can normally find a venue that will be willing to rent yo
 - Provide some food for your attendees - this goes a long way. It'll get more people to show up, and those who show up will really appreciate the gesture. Some will often pitch in paying for the bill as well if you want to accept their generosity. 
 - Stay consistent and meet at least once every two months. Attendance tends to follow market sentiment — more people show up near all-time highs — but even at bear market bottoms people will still show up. 
 - Don't put too much stock in RSVP numbers. Sometimes you'll have very few RSVPs and a big crowd shows up, other times you'll have a lot of RSVPs and very few people walk through the door. Plan for variance.
-- Be welcoming to everyone who shows up, even if they're shitcoiners. They will show up, especially when the price is way up. Be respectful, but let them know that this is a bitcoin-only meetup, but offer them some basic education about why we are bitcoin only and why we don't waste people's time on other cryptos. 
+- Be welcoming to everyone who shows up, even if they're shitcoiners. They will show up, especially when the price is way up. Be respectful, but let them know that this is a bitcoin-only meetup, but explain why this is a bitcoin-only space and that we don't cover other cryptos. 
 - Visit other local meetups yourself. Get to know the other hosts, build a relationship with them, and once you have some rapport it's usually appropriate to mention your own meetup. It's a two-way street.
 - When writing your meetup listing, be descriptive in the title and make it clear in the description that all experience levels are welcome. A lot of people are intimidated by the technical side of bitcoin, so explicitly calling out that it's a casual meetup for networking and learning will help them feel comfortable enough to show up.
 - On Club Orange, take advantage of the ability to find and DM people located near you. Let them know you run local meetups. You'll almost always get a reply asking when the next one is — then you can send them the link!

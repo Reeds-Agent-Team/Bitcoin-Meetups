@@ -33,7 +33,7 @@ Running a bitcoin meetup can be a daunting undertaking and in many ways it is a 
 
 Bitcoin is an open-source project and can be changed by anyone at any time. But, the bitcoin network runs on a social consensus of people who all agree what the rules of bitcoin are. As bitcoin continues to run, there will be future proposals for soft forks and hard forks and it is imperative that we have an active and educated social layer of bitcoiners who run the nodes and contribute economically to bitcoin by participating in the bitcoin ecosystem.
 
-Bitcoin meetups are where we can continue to foster the development and education of new bitcoiners by offering a physical space for people to come together and share ideas, ask questions and learn from each other. A place where everyone has a voice and will be responded to directly without hate, spam or shadow bans. They are a place to build a community around, a truely local web of trust.
+Bitcoin meetups are where we can continue to foster the development and education of new bitcoiners by offering a physical space for people to come together and share ideas, ask questions and learn from each other. A place where everyone has a voice and will be responded to directly without hate, spam or shadow bans. They are a place to build a community around, a truly local web of trust.
 
 I hope that this page finds you well and offers you some tools that will help you start or continue your local bitcoin meetup.
 
@@ -41,9 +41,9 @@ Thank you for all that you do to advance bitcoin grassroots adoption!
 
 # **Why Start or Continue a Bitcoin Meetup**
 
-In many ways falling down the bitcoin rabbit hole can be a lonely path, especially when so many people you have tried to talk to about it so often dismiss it for any number of reasons. Sure, there are many opportunities to interact with friends and strangers on the internet, but real life interactions hit different in so many ways. Connecting with other bitcoiners IRL allows for immediate, deep conversations that skip superficial small talk, diving into shared beliefs about bitcoin, but also other so many other topics that we have all found on our path to find the truth, the signal through the noise.
+In many ways falling down the bitcoin rabbit hole can be a lonely path, especially when so many people you have tried to talk to about it so often dismiss it for any number of reasons. Sure, there are many opportunities to interact with friends and strangers on the internet, but real life interactions hit different in so many ways. Connecting with other bitcoiners IRL allows for immediate, deep conversations that skip superficial small talk, diving into shared beliefs about bitcoin, but also so many other topics that we have all found on our path to find the truth, the signal through the noise.
 
-Bitcoin meetups are a place where all of your friends are, even if you have never met them before. Bitcoiners are some of the most principled, devoted, and intellectually intelligent people I have ever met. Starting a bitcoin meetup is your opportunity to bring together all of the stranded bitcoiners in your area and to make each other stronger, smarter and more informed than we all are separately.
+Bitcoin meetups are a place where all of your friends are, even if you have never met them before. Bitcoiners are some of the most principled, devoted, and intellectually curious people I have ever met. Starting a bitcoin meetup is your opportunity to bring together all of the stranded bitcoiners in your area and to make each other stronger, smarter and more informed than we all are separately.
 
 Beyond the softer, social reasons to run a bitcoin meetup, there are tangible benefits to connecting in real life that are impossible or extraordinarily complicated online.
 
