@@ -2,11 +2,11 @@
 
 # **How to Start a Bitcoin Meetup**
 
-Starting a bitcoin meetup can be as easy as posting a date, time and location of where you will be hanging out anyway! And honestly, this is probably the best way to start out.
+Starting a bitcoin meetup can be as easy as posting a date, time, and location of where you will be hanging out anyway! And honestly, this is probably the best way to start out.
 
 If you are just starting out, my recommendation would be to find a public social setting like a bar, coffee shop, library, or any other space that will allow people to meet up just to talk. As the meetup organizer, you should pick a time and location that work for you, but obviously times that work better for others are most likely outside of normal working hours and at locations that people are likely to be familiar with.
 
-Once you start to get a group of people together you can all talk amongst yourselves about what make sense of how people would like to see the meetup grow and develop. If other people have requests for alternate times or locations, just remember that as the organizer it is up to you to continue to show up as consistently as possible, so you also have to be ok with whatever is requested. Other people are always welcome to start another meetup or offer to help organize your meetup on alternate days as long as they are going to also be committed to it.
+Once you start to get a group of people together you can all talk amongst yourselves about what makes sense for how people would like to see the meetup grow and develop. If other people have requests for alternate times or locations, just remember that as the organizer it is up to you to continue to show up as consistently as possible, so you also have to be ok with whatever is requested. Other people are always welcome to start another meetup or offer to help organize your meetup on alternate days as long as they are going to also be committed to it.
 
 If you are interested check out this course on [Creating a Bitcoin Community](https://planb.academy/en/courses/create-a-bitcoin-community-1c643dc9-a15f-4f9e-93b6-cb3c58b4ee35)!
 
@@ -14,7 +14,7 @@ If you are interested check out this course on [Creating a Bitcoin Community](ht
 
 There are many places to post your bitcoin meetup and each of them will come with their own level of visibility. Some are free, others require a paid membership to list, some are more locally focused and all of them come with various tradeoffs.
 
-Big picture, its actually kind of a pain to post your meetup in a bunch of different locations, so don't feel obligated to post in all of these places.
+Big picture, it's actually kind of a pain to post your meetup in a bunch of different locations, so don't feel obligated to post in all of these places.
 
 Here are some recommendations for where to post your meetup events:
 
