@@ -14,6 +14,8 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| Plebchain Radio | Apr 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/2) |
+| The Bugle Weekly | Mar 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/#/1) |
 | Local Bitcoiners | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g3756368bd3b_0_1#slide=id.g3756368bd3b_0_1) |
 | Bitcoin Audible | Jan 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1Wp_hWnklpnjTPBdty4yCY9LEcx63E1DP4Z4Z9uIvKKQ/edit?slide=id.g3756368bd3b_0_1#slide=id.g3756368bd3b_0_1) |
 | The Jack Mallers Show | Dec 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/16Bxl_zG29SYH5OSa_UfNg7HkaNwnU_MNA5UoLzHjem4/edit?slide=id.g3756368bd3b_0_1#slide=id.g3756368bd3b_0_1) |
@@ -26,6 +28,8 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| Layered Money | Apr 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/3) |
+| The Fiat Standard | Mar 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/#/2) |
 | Broken Money | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g37e95ef5010_0_14#slide=id.g37e95ef5010_0_14) |
 | The Price of Tomorrow | Jan 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1Wp_hWnklpnjTPBdty4yCY9LEcx63E1DP4Z4Z9uIvKKQ/edit?slide=id.g37e95ef5010_0_14#slide=id.g37e95ef5010_0_14) |
 | The Bullish Case for Bitcoin | Dec 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/16Bxl_zG29SYH5OSa_UfNg7HkaNwnU_MNA5UoLzHjem4/edit?slide=id.g37e95ef5010_0_14#slide=id.g37e95ef5010_0_14) |
@@ -38,6 +42,7 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| There will Never be 21M BTC | Mar 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/#/3) |
 | Bitcoin Obituaries | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g3b873406490_0_123#slide=id.g3b873406490_0_123) |
 | The Impact of Inflation | Jan 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1Wp_hWnklpnjTPBdty4yCY9LEcx63E1DP4Z4Z9uIvKKQ/edit?slide=id.g3b873406490_0_123#slide=id.g3b873406490_0_123) |
 | The Sat Symbol | Aug 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/1oi7HtCUi7LRX5vdoP83W6lnwejp-7j-0iyKGRtYlBzk/edit?slide=id.g3756368bd3b_0_1#slide=id.g3756368bd3b_0_1) |
@@ -55,6 +60,8 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| LocalBitcoins | Apr 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/4) |
+| Taproot Activation | Mar 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/#/4) |
 | 2013 Cyprus Banking Crisis | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g35fb18b9878_0_151#slide=id.g35fb18b9878_0_151) |
 | The Genesis Block | Jan 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1Wp_hWnklpnjTPBdty4yCY9LEcx63E1DP4Z4Z9uIvKKQ/edit?slide=id.g35fb18b9878_0_151#slide=id.g35fb18b9878_0_151) |
 | The Evolution of Bitcoin Mining — CPUs, GPUs, then ASICs | Dec 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/16Bxl_zG29SYH5OSa_UfNg7HkaNwnU_MNA5UoLzHjem4/edit?slide=id.g35fb18b9878_0_151#slide=id.g35fb18b9878_0_151) |
@@ -82,6 +89,8 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| On-Chain Analytics & Privacy | Feb 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/8) |
+| Open Claw | Mar 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/#/10) |
 | Bitcoin Yield on Lightning | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g374958c1399_0_21#slide=id.g374958c1399_0_21) |
 | Open Sourced Mining | Dec 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/16Bxl_zG29SYH5OSa_UfNg7HkaNwnU_MNA5UoLzHjem4/edit?slide=id.g3a8dfc103e4_0_0#slide=id.g3a8dfc103e4_0_0) |
 | Phoenix Taproot Channels | Nov 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/1FUC1JUDpqMbTzv3uqfhpcyaX5bc97-FL-SbYGxHNhoM/edit?slide=id.g3a18e400c86_0_24#slide=id.g3a18e400c86_0_24) |
@@ -101,6 +110,8 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Link |
 |---|---|---|
+| How Societies Collapse | Apr 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/10) |
+| Bitcoin is the Pin to the Bubble | Mar 2026 | [→ Watch](https://youtu.be/-khLXD484xE?si=zk7ypO7NyQo5K2Ct) |
 | Bitcoin Fixes This | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g35fb18b9878_0_82#slide=id.g35fb18b9878_0_82) |
 | CZ Gives Schiff Gold Bar | Jan 2026 | [→ Watch](https://youtu.be/LOKoe4s3RcM?t=8) |
 | Bitcoin Will Change the Global Economy (2022) | Jan 2026 | [→ Watch](https://youtu.be/-OTg6zAIAfY) |
@@ -131,6 +142,7 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| Circular Economies | May 2025 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/9) |
 | Fiat Ruins Investing | May 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/1M4rPwfpLBmBnMKiil8Xgnk-utPsjxcp4I_LKZXzu4QI/edit?slide=id.g354a3c7ac02_0_83#slide=id.g354a3c7ac02_0_83) |
 | Credit Card Points are Fiat | Mar 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/1xLPU7LTY8MorvINfjVWBFVlrb9dZ2bkp3T0vxJVoRwI/edit?slide=id.g328a5be7da3_0_5#slide=id.g328a5be7da3_0_5) |
 | Fiat Foods | Jan 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/1gNcTQyvllBQea7yuSvj1X_hGsvShz4oTS5otXHdN5DU/edit?slide=id.g328a5be7da3_0_5#slide=id.g328a5be7da3_0_5) |
