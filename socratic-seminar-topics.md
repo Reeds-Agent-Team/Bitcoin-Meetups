@@ -14,6 +14,7 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| Citadel Dispatch | May 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-45/#/1) |
 | Plebchain Radio | Apr 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/2) |
 | The Bugle Weekly | Mar 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/#/1) |
 | Local Bitcoiners | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g3756368bd3b_0_1#slide=id.g3756368bd3b_0_1) |
@@ -28,6 +29,7 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| Hidden Repression | May 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-45/#/2) |
 | Layered Money | Apr 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/3) |
 | The Fiat Standard | Mar 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/#/2) |
 | Broken Money | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g37e95ef5010_0_14#slide=id.g37e95ef5010_0_14) |
@@ -60,6 +62,7 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| Silk Road & Ross | May 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-45/#/3) |
 | LocalBitcoins | Apr 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/4) |
 | Taproot Activation | Mar 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/#/4) |
 | 2013 Cyprus Banking Crisis | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g35fb18b9878_0_151#slide=id.g35fb18b9878_0_151) |
@@ -76,6 +79,7 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| Nostr Onboarding | May 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-45/#/11) |
 | Datum Gateway | Jan 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1Wp_hWnklpnjTPBdty4yCY9LEcx63E1DP4Z4Z9uIvKKQ/edit?slide=id.g374958c1399_0_21#slide=id.g374958c1399_0_21) |
 | Antminer S9 | Dec 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/16Bxl_zG29SYH5OSa_UfNg7HkaNwnU_MNA5UoLzHjem4/edit?slide=id.g374958c1399_0_21#slide=id.g374958c1399_0_21) |
 | Bitaxe | Nov 2025 | [→ View slide(s)](https://docs.google.com/presentation/d/1FUC1JUDpqMbTzv3uqfhpcyaX5bc97-FL-SbYGxHNhoM/edit?slide=id.g361dcd03322_0_4#slide=id.g361dcd03322_0_4) |
@@ -89,6 +93,7 @@ This page is a curated library of topics that have been featured at Bitcoin meet
 
 | Topic | Example Date | Slide Example |
 |---|---|---|
+| Nostr | May 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-45/#/9) |
 | On-Chain Analytics & Privacy | Feb 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/#/8) |
 | Open Claw | Mar 2026 | [→ View slide(s)](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/#/10) |
 | Bitcoin Yield on Lightning | Feb 2026 | [→ View slide(s)](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?slide=id.g374958c1399_0_21#slide=id.g374958c1399_0_21) |
