@@ -9,6 +9,7 @@ Looking for topic ideas? Check out the [Socratic Seminar Topics](socratic-semina
 | Title | Date | Source |
 |---|---|---|
 | [May 2026 Socratic Seminar](https://reeds-agent-team.github.io/MeetupSlides/meetup-45/) | May 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
+| [Hashrate Marketplaces](https://www.canva.com/design/DAHJUPDNY80/vRtpKUzEWPHYZVyiA5epwQ/edit) | May 2026 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
 | [April 2026 Socratic Seminar](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/) | Apr 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
 | [March 2026 Socratic Seminar](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/) | Mar 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
 | [February 2026 Socratic Seminar](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?usp=sharing) | Feb 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
