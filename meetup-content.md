@@ -8,6 +8,9 @@ Looking for topic ideas? Check out the [Socratic Seminar Topics](socratic-semina
 
 | Title | Date | Source |
 |---|---|---|
+| [May 2026 Socratic Seminar](https://reeds-agent-team.github.io/MeetupSlides/meetup-45/) | May 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
+| [April 2026 Socratic Seminar](https://reeds-agent-team.github.io/MeetupSlides/meetup-44/) | Apr 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
+| [March 2026 Socratic Seminar](https://reeds-agent-team.github.io/MeetupSlides/meetup-43/) | Mar 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
 | [February 2026 Socratic Seminar](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?usp=sharing) | Feb 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
 | [January 2026 Socratic Seminar](https://docs.google.com/presentation/d/16cCbevm-E4bFNvv4J_XHXfIo6JD-YsorjXtfoLrCNXQ/edit?slide=id.g3b6165eb2be_0_220#slide=id.g3b6165eb2be_0_220) | Jan 2026 | [Jersey City Bitcoin](https://jerseycitybitcoin.com/) |
 | [January 2026 Socratic Seminar](https://docs.google.com/presentation/d/1Wp_hWnklpnjTPBdty4yCY9LEcx63E1DP4Z4Z9uIvKKQ/edit?usp=sharing) | Jan 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
